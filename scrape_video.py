@@ -17,6 +17,7 @@ from urllib.request import urlopen
 
 def downloadVideo(link, id):
     print(f"Downloading video {id} from: {link}")
+    
     cookies = {
         '_ga': 'GA1.1.2044991670.1704833424',
         '_ga_ZSF3D6YSLC': 'GS1.1.1704903103.2.1.1704903320.0.0.0',
@@ -80,7 +81,7 @@ options.add_argument("--disable-blink-features=AutomationControlled")
 options.add_experimental_option("excludeSwitches", ["enable-automation"])
 driver = webdriver.Chrome(options=options)
 # Change the tiktok link
-driver.get("https://www.tiktok.com/@torkx_0o")
+driver.get("Change the tiktok link")
 
 # IF YOU GET A TIKTOK CAPTCHA, CHANGE THE TIMEOUT HERE
 # to 60 seconds, just enough time for you to complete the captcha yourself.

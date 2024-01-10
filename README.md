@@ -1,6 +1,5 @@
 # TikTok Video Scraper w/o watermark
 
-This is the code that follows the tutorial [here](https://www.youtube.com/watch?v=UsT11sOD1JA)
 
 Common errors / issues:
 1. There is a TikTok captcha
@@ -9,4 +8,4 @@ Common errors / issues:
 - Make sure to check your cookies / headers 
 
 
-If you get stuck and need help, make sure to join the [discord](https://beacons.ai/codewithvincent), and drop your question in the questions channel.
+If you get stuck and need help, make sure to drop your question in message here islam.megdoude@gmail.com or in my linkdin .
